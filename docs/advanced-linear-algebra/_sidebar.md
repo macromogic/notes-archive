@@ -1,3 +1,4 @@
 - [高等代数](advanced-linear-algebra/)
   - [1. 线性空间和线性映射](/advanced-linear-algebra/01-linear-space.md)
 - [初等数论](elementry-number-theory/)
+- [随机过程](stochastic-methods/)

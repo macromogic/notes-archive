@@ -1,2 +1,3 @@
 - [高等代数](advanced-linear-algebra/)
 - [初等数论](elementry-number-theory/)
+- [随机过程](stochastic-methods/)

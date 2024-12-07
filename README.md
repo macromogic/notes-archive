@@ -2,6 +2,6 @@
 
 Write to learn.
 
-[Blog Mainpage](https://blog.macromogic.xyz)
+[Blog Mainpage](https://macromogic.xyz)
 
-[Notes Mainpage](https://blog.macromogic.xyz/notes-archive)
+[Notes Mainpage](https://macromogic.xyz/notes-archive)
