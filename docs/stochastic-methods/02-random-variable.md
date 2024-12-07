@@ -16,7 +16,7 @@ $$F(x) = P(A(x)) = P(\{\omega \in \Omega: X(\omega) \leq x\})$$
 > $$\{X \in B\} = X^{-1}(B) = \{\omega \in \Omega: X(\omega) \in B\} \in \mathcal{F}$$
 > 则称$X$是$\mathcal{F}$可测的。若$(\Omega, \mathcal{F}, P)$是概率空间，则该$\mathcal{F}$可测的函数$X$称为随机变量。
 
-> 注：如何快速理解$\mathcal{F}$可测这个概念？牢记：$\mathcal{F}$能够描述场景下所有事件，能用$\mathcal{F}$度量的对象自然也必须是事件。若$X$的某个映射结果不是一个事件，那么它就不是$\mathcal{F}$可测的。（提示：掷两个硬币但只能看到第一个的结果，此时什么样的集合不能称为事件？）
+> 注：如何快速理解$\mathcal{F}$可测这个概念？牢记：$\mathcal{F}$能够描述场景下所有事件，能用$\mathcal{F}$度量的对象自然也必须是事件。若某个$\{X \in B\}$不是一个事件，那么它就不是$\mathcal{F}$可测的。（提示：掷两个硬币但只能看到第一个的结果，此时什么样的集合不能称为事件？）
 
 随机变量$X$很自然地提供了一个$\mathcal{B}(\mathbb{R})$上的概率测度：
 $$P_X(B) := P(\{X \in B\}) = P(X^{-1}(B)) = P(\{\omega \in \Omega: X(\omega) \in B\})$$
